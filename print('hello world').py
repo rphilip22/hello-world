@@ -1,2 +1,3 @@
-print('hello world')
-#this is a simple Python script that prints "hello world" to the console.
+name = input("What's your name?")
+print("Hello, " + name)
+#this program prompts the user for their name and greets them
